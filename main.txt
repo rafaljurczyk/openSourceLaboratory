@@ -1,4 +1,2 @@
 developcommit
-feature1commit
-feature2commit
-
+feature1commit v2
